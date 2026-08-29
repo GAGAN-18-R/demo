@@ -1,4 +1,4 @@
 # demo
 <h1>This is my first git repository</h1>
-<hr>
+<br>
 Author-GAGAN R
